@@ -1,0 +1,5 @@
+nums = {2, 1, 2, 4, 3, 2, 5, 1}
+
+nums.remove(2)
+
+print(nums)
